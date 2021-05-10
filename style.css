@@ -1,0 +1,23 @@
+body
+{
+    background-size: cover;
+}
+
+.heading_div1
+{
+    color: whitesmoke;
+}
+
+canvas
+{
+    margin-top: 150px;
+    border-style: dashed;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px red;
+}
+
+hr
+{
+    border-style: dashed;
+}
